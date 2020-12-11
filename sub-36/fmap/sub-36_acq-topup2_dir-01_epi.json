@@ -71,5 +71,9 @@
     6.9425,
     3.4125
   ],
-  "TotalReadoutTime": 0.0580013
+  "TotalReadoutTime": 0.0580013,
+  "IntendedFor": [
+    "dwi/sub-36_acq-PA_dwi.nii.gz",
+    "dwi/sub-36_acq-AP_dwi.nii.gz"
+  ]
 }
