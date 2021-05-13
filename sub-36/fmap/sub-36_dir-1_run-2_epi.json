@@ -1,14 +1,6 @@
 {
   "AcquisitionDateTime": "2017-07-17T17:07:36.216000",
-  "EchoTime": 0.0632,
-  "EffectiveEchoSpacing": 0.000580013,
-  "FlipAngle": 90,
-  "ImageType": ["ORIGINAL","PRIMARY","M","ND","MOSAIC"],
-  "MagneticFieldStrength": 3,
-  "Manufacturer": "Siemens",
-  "ManufacturersModelName": "Prisma",
   "PhaseEncodingDirection": "j-",
-  "RepetitionTime": 7.06,
   "SliceTiming": [
     3.53,
     0,
@@ -70,10 +62,5 @@
     3.295,
     6.9425,
     3.4125
-  ],
-  "TotalReadoutTime": 0.0580013,
-  "IntendedFor": [
-    "dwi/sub-36_acq-PA_dwi.nii.gz",
-    "dwi/sub-36_acq-AP_dwi.nii.gz"
   ]
 }

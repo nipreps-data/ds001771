@@ -1,0 +1,15 @@
+{
+  "EchoTime": 0.0632,
+  "EffectiveEchoSpacing": 0.000580013,
+  "FlipAngle": 90,
+  "ImageType": ["ORIGINAL","PRIMARY","M","ND","MOSAIC"],
+  "MagneticFieldStrength": 3,
+  "Manufacturer": "Siemens",
+  "ManufacturersModelName": "Prisma",
+  "RepetitionTime": 7.06,
+  "TotalReadoutTime": 0.0580013,
+  "IntendedFor": [
+    "dwi/sub-36_acq-AP_dwi.nii.gz",
+    "dwi/sub-36_acq-PA_dwi.nii.gz"
+  ]
+}
